@@ -1,0 +1,15 @@
+/Users/user/Desktop/dcit318-assignment2-10958802/InheritanceandMethodOverriding/bin/Debug/net8.0/InheritanceandMethodOverriding
+/Users/user/Desktop/dcit318-assignment2-10958802/InheritanceandMethodOverriding/bin/Debug/net8.0/InheritanceandMethodOverriding.deps.json
+/Users/user/Desktop/dcit318-assignment2-10958802/InheritanceandMethodOverriding/bin/Debug/net8.0/InheritanceandMethodOverriding.runtimeconfig.json
+/Users/user/Desktop/dcit318-assignment2-10958802/InheritanceandMethodOverriding/bin/Debug/net8.0/InheritanceandMethodOverriding.dll
+/Users/user/Desktop/dcit318-assignment2-10958802/InheritanceandMethodOverriding/bin/Debug/net8.0/InheritanceandMethodOverriding.pdb
+/Users/user/Desktop/dcit318-assignment2-10958802/InheritanceandMethodOverriding/obj/Debug/net8.0/InheritanceandMethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/dcit318-assignment2-10958802/InheritanceandMethodOverriding/obj/Debug/net8.0/InheritanceandMethodOverriding.AssemblyInfoInputs.cache
+/Users/user/Desktop/dcit318-assignment2-10958802/InheritanceandMethodOverriding/obj/Debug/net8.0/InheritanceandMethodOverriding.AssemblyInfo.cs
+/Users/user/Desktop/dcit318-assignment2-10958802/InheritanceandMethodOverriding/obj/Debug/net8.0/InheritanceandMethodOverriding.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/dcit318-assignment2-10958802/InheritanceandMethodOverriding/obj/Debug/net8.0/InheritanceandMethodOverriding.sourcelink.json
+/Users/user/Desktop/dcit318-assignment2-10958802/InheritanceandMethodOverriding/obj/Debug/net8.0/InheritanceandMethodOverriding.dll
+/Users/user/Desktop/dcit318-assignment2-10958802/InheritanceandMethodOverriding/obj/Debug/net8.0/refint/InheritanceandMethodOverriding.dll
+/Users/user/Desktop/dcit318-assignment2-10958802/InheritanceandMethodOverriding/obj/Debug/net8.0/InheritanceandMethodOverriding.pdb
+/Users/user/Desktop/dcit318-assignment2-10958802/InheritanceandMethodOverriding/obj/Debug/net8.0/InheritanceandMethodOverriding.genruntimeconfig.cache
+/Users/user/Desktop/dcit318-assignment2-10958802/InheritanceandMethodOverriding/obj/Debug/net8.0/ref/InheritanceandMethodOverriding.dll
