@@ -1,0 +1,15 @@
+/Users/user/Desktop/dcit318-assignment2-10958802/AbstractClassesandMethods/bin/Debug/net8.0/AbstractClassesandMethods
+/Users/user/Desktop/dcit318-assignment2-10958802/AbstractClassesandMethods/bin/Debug/net8.0/AbstractClassesandMethods.deps.json
+/Users/user/Desktop/dcit318-assignment2-10958802/AbstractClassesandMethods/bin/Debug/net8.0/AbstractClassesandMethods.runtimeconfig.json
+/Users/user/Desktop/dcit318-assignment2-10958802/AbstractClassesandMethods/bin/Debug/net8.0/AbstractClassesandMethods.dll
+/Users/user/Desktop/dcit318-assignment2-10958802/AbstractClassesandMethods/bin/Debug/net8.0/AbstractClassesandMethods.pdb
+/Users/user/Desktop/dcit318-assignment2-10958802/AbstractClassesandMethods/obj/Debug/net8.0/AbstractClassesandMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/dcit318-assignment2-10958802/AbstractClassesandMethods/obj/Debug/net8.0/AbstractClassesandMethods.AssemblyInfoInputs.cache
+/Users/user/Desktop/dcit318-assignment2-10958802/AbstractClassesandMethods/obj/Debug/net8.0/AbstractClassesandMethods.AssemblyInfo.cs
+/Users/user/Desktop/dcit318-assignment2-10958802/AbstractClassesandMethods/obj/Debug/net8.0/AbstractClassesandMethods.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/dcit318-assignment2-10958802/AbstractClassesandMethods/obj/Debug/net8.0/AbstractClassesandMethods.sourcelink.json
+/Users/user/Desktop/dcit318-assignment2-10958802/AbstractClassesandMethods/obj/Debug/net8.0/AbstractClassesandMethods.dll
+/Users/user/Desktop/dcit318-assignment2-10958802/AbstractClassesandMethods/obj/Debug/net8.0/refint/AbstractClassesandMethods.dll
+/Users/user/Desktop/dcit318-assignment2-10958802/AbstractClassesandMethods/obj/Debug/net8.0/AbstractClassesandMethods.pdb
+/Users/user/Desktop/dcit318-assignment2-10958802/AbstractClassesandMethods/obj/Debug/net8.0/AbstractClassesandMethods.genruntimeconfig.cache
+/Users/user/Desktop/dcit318-assignment2-10958802/AbstractClassesandMethods/obj/Debug/net8.0/ref/AbstractClassesandMethods.dll
